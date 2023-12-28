@@ -2,7 +2,7 @@ title: " 제목작성 "
 body:
 - type: textarea
   attributes:
-    label: 전달 사항
+    label: 공유 정보
     value: |
       * text
       * text
