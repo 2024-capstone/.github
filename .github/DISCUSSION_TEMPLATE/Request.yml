@@ -1,0 +1,27 @@
+title: "[From ➡️TO] 제목 작성 "
+body:
+- type: dropdown
+  attributes:
+    label: 카테고리
+    multiple: false
+    options:
+      - 기능 요청
+      - 문서정리 요청
+      - 기타 요청
+    default: 0
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: 전달 사항
+    value: |
+      * text
+      * text
+      * text
+- type: textarea
+  attributes:
+    label: 요청 사항
+    value: |
+      - [ ] text
+      - [ ] text
+      - [ ] text
