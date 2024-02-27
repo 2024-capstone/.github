@@ -1,0 +1,19 @@
+title: "[트러블슈팅]  "
+body:
+- type: dropdown
+  attributes:
+    label: 오류 발생 위치
+    multiple: false
+    options:
+      - FRONTEND
+      - BACKEND
+    default: 0
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: 내용
+    value: |
+      * text
+      * text
+      * text
