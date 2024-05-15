@@ -3,12 +3,14 @@
 
 ## 🌤 Weather Wear : 웨더웨어 
 
+
+<img width="250" alt="Group 635" src="https://github.com/weatherfairy/.github/assets/88484476/53ce1681-fb84-4a3b-a79e-916c90458575">
+
+
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweatherfaity%2Fweatherwear-front&count_bg=%23FFA49F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### ▼ 스토어 이동 ▼
-<a href="https://naver.com">
-<!-- <img width="250" alt="image" src="로고이미지"> -->
-</a>
 </div>
 
 <br>
