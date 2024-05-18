@@ -4,7 +4,8 @@
 ## 🌤 Weather Wear : 웨더웨어 
 
 
-<img width="250" alt="Group 635" src="https://github.com/weatherfairy/.github/assets/88484476/53ce1681-fb84-4a3b-a79e-916c90458575">
+
+<img width="1600" alt="shot 710" src="https://github.com/weatherfairy/.github/assets/88484476/c2e0209a-4798-46d8-b22b-26f26a3d2f89">
 
 
 
