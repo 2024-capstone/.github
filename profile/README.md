@@ -38,6 +38,13 @@
 
 <br>
 
+## 🌈 Repository
+
+* <a href="https://github.com/weatherfairy/weatherwear-back"><b>Front-End (React Native)</b>
+* <a href="https://github.com/weatherfairy/weatherwear-front"><b>Back-End (Spring)</b>
+
+<br>
+
 ## 🌈 팀원 소개
 <table>
   <tr>
