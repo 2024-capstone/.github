@@ -17,10 +17,10 @@
 <br>
 
 ## 🌈 프로젝트 소개
-> **`웨더웨어`는 `옷 추천 날씨 앱`입니다.**
+#### `어제-오늘-내일` 날씨를 한눈에 비교하고, `ChatGPT`로 맞춤 스타일링을 제안하는 `똑똑한 날씨 앱`
 <br>
 
-> **무슨 옷일 입어야 할 지 모르겠을 때!**
+> **무슨 옷을 입어야 할 지 모르겠을 때!**
 > <br>
 > **빠르게 과거 날씨를 확인하고 싶을 떄!**
 > <br>
@@ -28,22 +28,39 @@
 
 <br>
 
-## 🌈 주요 기능
+## 🌈 주요 기능 & 페이지 
 
 **`1️⃣ 손 쉽게 어제 - 오늘 - 내일 날씨 비교`**
 
 **`2️⃣ 귀여운 아이콘으로 그날의 옷 추천!`**
 
-**`3️⃣ 오늘 입은 옷 기록`**
+**`3️⃣ 오늘 입은 옷 기록 + GPT 를 이용한 옷 추천`**
 
-<br>
+<img width="1600" alt="shot 710" src="https://github.com/weatherfairy/.github/assets/88484476/6f2b55de-3b6e-45cf-bc29-efe1d84bbb92">
+
+<br><br>
+
+## 🌈 DB 설계
+
+> 날씨 데이터는 매일 자정 `스케줄러`를 통해 새로 저장합니다.
+
+<img width="800" alt="shot DB" src="https://github.com/weatherfairy/.github/assets/88484476/eb5483a1-5685-4a7e-b9fc-b095ae44e3cb">
+
+<br><br>
+
+## 🌈 협업
+
+
+<img width="800" alt="shot DB" src="https://github.com/weatherfairy/.github/assets/88484476/85f54722-8cb7-4268-af06-10bd8dca3003">
+
+<br><br>
 
 ## 🌈 Repository
 
 * <a href="https://github.com/weatherfairy/weatherwear-back"><b>Front-End (React Native)</b>
 * <a href="https://github.com/weatherfairy/weatherwear-front"><b>Back-End (Spring)</b>
 
-<br>
+<br><br>
 
 ## 🌈 팀원 소개
 <table>
@@ -73,21 +90,15 @@
   </tr>
 </table>
 
-<br>
+<br><br>
 
 
 ## 🌈 우리의 RULE
-#### ✅ COMMUNICATION
+
 - 매주 화요일, 목요일에는 **대면으로** 팀 회의를 진행합니다.
 - 모여서 회의가 불가능할 경우 **Discord**를 통해 회의합니다.
 - **Discord** 알림이 오면 바로 확인합니다.
 - 논의사항, 트러블슈팅은 **Git Discussion** 과 **Notion에** 정리합니다.
-
-
-#### ✅ **PR & Commit**
-- main branch에 바로 push 금지! develop branch로 Pull requests 하기.
-- PR 전에 이슈 발행 필수, PR 할 때 이슈 번호 입력 필수!
-- 이슈 하나는 본인이 하루 내에 해결할 수 있는 양으로 선정하기.
-- PR에 적극적으로 코드 리뷰 남기기 (LGTM 금지🙅).
-
+- npm 설치 목록은 **Notion** 을 통해 공유합니다.
+- API 문서는 **Notion** 을 통해 공유합니다.
 
