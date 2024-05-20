@@ -57,8 +57,8 @@
 
 ## 🌈 Repository
 
-* <a href="https://github.com/weatherfairy/weatherwear-back"><b>Front-End (React Native)</b>
-* <a href="https://github.com/weatherfairy/weatherwear-front"><b>Back-End (Spring)</b>
+* <a href="https://github.com/weatherfairy/weatherwear-front"><b>Front-End (React Native)</b>
+* <a href="https://github.com/weatherfairy/weatherwear-back"><b>Back-End (Spring)</b>
 
 <br><br>
 
