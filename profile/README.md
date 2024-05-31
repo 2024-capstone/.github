@@ -12,6 +12,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweatherfaity%2Fweatherwear-front&count_bg=%23B0D8FF&title_bg=%23515151&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<br>
+
+[⛅️안드로이드 APK 버전 1.0.0 다운로드](https://github.com/weatherfairy/weatherwear-front/releases/tag/android_0.01)
+
 </div>
 
 <br>
@@ -27,6 +31,7 @@
 >**웨더웨어는 날씨에 맞게 그날의 옷을 추천해줍니다.**
 
 <br>
+
 
 ## 🌈 주요 기능 & 페이지 
 
